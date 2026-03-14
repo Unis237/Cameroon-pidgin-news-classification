@@ -1,7 +1,4 @@
-
-# Cameroon-pidgin-news-classification
-
-# CamPidNEWS: News Topic Classification for Cameroonian Pidgin English
+# News Topic Classification for Cameroonian Pidgin English
 
 This repository contains the dataset, code, and results for our news topic
 classification project on Cameroonian Pidgin English, developed as part of
